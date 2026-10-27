@@ -1,0 +1,27 @@
+SPOLSZCZENIE BATMAN: THE TELLTALE SERIES v1.2
+Autor: Januzyne
+
+Pelne fanowskie tlumaczenie wszystkich 5 epizodow (wersja Steam/Epic, PC).
+
+CO NOWEGO w v1.2:
+- Przetlumaczone komendy akcji w walkach i scenach QTE
+  (np. "Punch Him", "Kiss Her", "Inspect", "Ignore" -> po polsku).
+- Drobne poprawki jakosci tekstu.
+- (z v1.1) Polskie napisy maja najwyzszy priorytet - gra nie nadpisze ich angielskimi.
+- Numer wersji widoczny w grze: Ustawienia -> O GRZE ("Spolszczenie: Januzyne (v1.2)").
+
+INSTALACJA
+1. Rozpakuj caly ZIP (plik .exe i "spolszczenie_dane.bin" musza byc obok siebie).
+2. ZAMKNIJ gre.
+3. Uruchom Spolszczenie_Batman_TTS_v1.0.exe
+4. Instalator sam znajdzie gre (jak nie - "Przegladaj..." i wskaz folder,
+   ktory FAKTYCZNIE uruchamiasz; dla Epic wskaz recznie).
+5. Kliknij "Zainstaluj" i uruchom gre.
+
+SPRAWDZENIE WERSJI: w grze Ustawienia -> O GRZE powinno byc
+"Spolszczenie: Januzyne (v1.2)". Brak tej linii = instalacja trafila
+do innego folderu niz uruchamiana kopia gry.
+
+ODINSTALOWANIE: uruchom instalator ponownie -> "Odinstaluj".
+
+(c) 2026 Januzyne. Tlumaczenie fanowskie, niepowiazane z Telltale/WB/DC.
